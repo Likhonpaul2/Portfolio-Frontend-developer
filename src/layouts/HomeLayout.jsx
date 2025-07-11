@@ -7,7 +7,7 @@ import Loading from "../UI/Loading";
 const HomeLayout = () => {
   const [loading, setLoading] = useState(true);
   useEffect(() => {
-    document.title = "Naimur | Portfolio";
+    document.title = "Emon | Portfolio";
     window.scrollTo(0, 0);
     const timer = setTimeout(() => {
       setLoading(false);
