@@ -6,15 +6,13 @@ import { CgClose } from "react-icons/cg";
 
 const projects = [
   {
-    title: "CrewUp",
-    subtitle: "Discover and create local hobby groups",
-    image: "/Websites/CrewUpHome.png",
-    live: "https://crewup.web.app/",
-    client: "https://github.com/wdNaimur/crewup-client",
+    title: "Event Explorer",
+    subtitle: "A Local Event Discovery Platform",
+    image: "/Websites/Event-Explorer.png",
+    live: "https://event-explorer-6b96f.web.app/",
+    client: "https://github.com/Likhonpaul2/event-explorer",
     description: [
-      "CrewUp is a platform that helps users discover and join local hobby groups based on shared interests.",
-      "It supports group creation, personalized dashboards, and real-time search to enhance user engagement.",
-      "The platform includes secure authentication, responsive design, and smooth animations for a modern experience.",
+      "Event Explorer is a single-page application (SPA) built using React and Firebase that allows users to discover and explore local events such as conferences, workshops, exhibitions, sports matches, and more. Users can log in, browse events, view details, reserve seats, and update their profile — all through a beautiful, responsive interface."
     ],
     features: [
       "Group discovery by category and live keyword search",
@@ -37,15 +35,40 @@ const projects = [
     ],
   },
   {
-    title: "BulkNEST",
+    title: "B2B Wholesale",
     subtitle: "B2B wholesale marketplace platform",
-    image: "/Websites/BulkNestHome.png",
-    live: "https://bulknest.web.app/",
-    client: "https://github.com/wdNaimur/bulknest-client",
+    image: "/Websites/b2b-wholesale.png",
+    live: "https://b2b-wholesale-marketplace.web.app/",
+    client: "https://github.com/Likhonpaul2/b2b-wholesale-plateform-client",
     description: [
-      "BulkNEST is a B2B e-commerce platform that connects wholesalers with retailers for bulk product orders in an efficient and user-friendly way.",
-      "It includes a secure login system, protected routes, full CRUD functionality for products, and a responsive layout optimized for business workflows.",
-      "Features like category filters, toggle views, JWT-based access, and elegant animations enhance the usability and scalability of the platform.",
+      "A B2B wholesale platform designed to connect businesses with suppliers and streamline the wholesale purchasing process. The platform offers product listing, order management, user authentication, and secure transactions to simplify bulk buying and enhance business-to-business interactions."
+    ],
+    features: [
+      "JWT authentication and protected admin routes",
+      "Product filters, sorting, and list/grid toggle view",
+      "Role-based dashboard (admin, vendor, buyer)",
+      "Vendor panel for uploading and managing products",
+      "Responsive UI with Tailwind and reusable components",
+      "Framer Motion-based smooth animations",
+    ],
+    technologies: [
+      "React",
+      "Firebase",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "JWT",
+      "Framer Motion",
+    ],
+  },
+  {
+    title: "Hobby Hub",
+    subtitle: "B2B wholesale marketplace platform",
+    image: "/Websites/hobby-hub-client.png",
+    live: "https://hobby-hub-client-fcf7f.web.app/",
+    client: "https://github.com/Likhonpaul2/hobby-hub-client",
+    description: [
+      "Hobby Hub is a web application designed to connect people with similar hobbies and interests. Users can discover, share, and join various hobby groups, participate in events, and build a community around their passions."
     ],
     features: [
       "JWT authentication and protected admin routes",

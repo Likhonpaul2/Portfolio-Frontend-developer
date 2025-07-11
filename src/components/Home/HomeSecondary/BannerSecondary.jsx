@@ -15,7 +15,7 @@ const BannerSecondary = () => {
         <div className="sm:hidden flex justify-center items-center">
           <img
             className="w-[80%] mt-16 mask mask-squircle bg-primary/10"
-            src="/wd.naimur.png"
+            src="/Github-Profile2.png"
             alt="photo"
           />
         </div>

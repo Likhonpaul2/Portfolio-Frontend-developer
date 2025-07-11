@@ -34,7 +34,7 @@ const Footer = () => {
       <nav className="z-10">
         <div className="grid grid-flow-col gap-4">
           <a
-            href="https://github.com/wdNaimur"
+            href="https://github.com/Likhonpaul2"
             target="_blank"
             rel="noreferrer"
             className="p-2 hover:text-primary transition-all hover:scale-125 hover:-translate-y-1"
@@ -42,7 +42,7 @@ const Footer = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/naimur-web"
+            href="https://www.linkedin.com/in/emon-paul-dev/"
             target="_blank"
             rel="noreferrer"
             className="p-2 hover:text-primary transition-all hover:scale-125 hover:-translate-y-1"
@@ -50,7 +50,7 @@ const Footer = () => {
             <FaLinkedin size={24} />
           </a>
           <a
-            href="mailto:wd.naimur@gmail.com"
+            href="mailto:lp.emon.paul@gmail.com"
             target="_blank"
             rel="noreferrer"
             className="p-2 hover:text-primary transition-all hover:scale-125 hover:-translate-y-1"
@@ -63,7 +63,7 @@ const Footer = () => {
       {/* Footer Bottom Text */}
       <p className="border-b-primary/80 border-b-6 pb-2 w-full py-1 px-4">
         <span className="opacity-60 text-sm">
-          © {new Date().getFullYear()} Naimur Rahman — Portfolio Designed &
+          © {new Date().getFullYear()} Emon Paul — Portfolio Designed &
           Developed by Me
         </span>
       </p>

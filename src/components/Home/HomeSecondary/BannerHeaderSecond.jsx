@@ -36,7 +36,7 @@ const BannerHeaderSecond = () => {
           delay: 2,
         }}
       >
-        Md. Naimur Rahman
+        Emon Paul.
       </motion.h1>
 
       {/* Tagline */}
@@ -55,7 +55,7 @@ const BannerHeaderSecond = () => {
           Let’s Connect
         </Link>
         <a
-          href="https://github.com/wdNaimur"
+          href="https://github.com/Likhonpaul2"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-outline btn btn-primary btn-circle hover:text-base-200 shadow-none active:scale-90 transition-all duration-300 select-none ease-in-out hover:bg-primary text-2xl border-2 border-primary"
@@ -64,7 +64,7 @@ const BannerHeaderSecond = () => {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/naimur-web"
+          href="https://www.linkedin.com/in/emon-paul-dev/"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-outline btn btn-primary btn-circle hover:text-base-200 shadow-none active:scale-90 transition-all duration-300 select-none ease-in-out hover:bg-primary text-2xl border-2 border-primary"

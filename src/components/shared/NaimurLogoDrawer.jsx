@@ -16,7 +16,7 @@ const NaimurLogoDrawer = ({ onClickItem }) => {
       className="text-4xl font-bold text-primary font-poppins flex items-center gap-2 select-none cursor-pointer"
     >
       <img className="h-12" src="/naimur-logo.png" alt="Logo" />
-      <span>Naimur</span>
+      <span>Emon</span>
     </Link>
   );
 };

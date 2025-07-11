@@ -14,8 +14,8 @@ const AboutSection = () => {
         {/* Left: Image */}
         <div className="w-full lg:h-full md:h-[540px] sm:h-[400px] h-[320px]">
           <img
-            src="/wd.naimur.png"
-            alt="Portrait of Md. Naimur Rahman"
+            src="/Github-Profile2.png"
+            alt="Portrait of emon paul"
             className="w-full h-full object-cover rounded-l-2xl"
           />
         </div>
@@ -25,7 +25,7 @@ const AboutSection = () => {
           <h3 className="text-2xl font-bold text-primary mb-4">
             Hi, I'm{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-tr from-primary to-secondary">
-              Md. Naimur Rahman
+              Emon Paul
             </span>
           </h3>
           <p className="text-base leading-relaxed mb-6 opacity-80">

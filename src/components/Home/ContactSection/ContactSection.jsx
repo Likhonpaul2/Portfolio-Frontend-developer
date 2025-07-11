@@ -87,11 +87,11 @@ const ContactSection = () => {
                 href="mailto:wd.naimur@gmail.com"
                 className="text-primary underline"
               >
-                wd.naimur@gmail.com
+                lp.emon.paul@gmail.com
               </a>
             </p>
             <p>
-              <strong>Location:</strong> Rangpur, Bangladesh
+              <strong>Location:</strong> Tangail, Dhaka, Bangladesh
             </p>
           </div>
         </div>

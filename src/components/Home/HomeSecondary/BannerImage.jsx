@@ -78,7 +78,7 @@ const BannerImage = () => {
       {/* Foreground Image */}
       <div className="absolute mask mask-squircle overflow-hidden pointer-events-none">
         <img
-          src="/wd.naimur.png"
+          src="/Github-Profile2.png"
           alt="Main Foreground"
           className="w-full h-full z-50 bg-primary/10"
         />
