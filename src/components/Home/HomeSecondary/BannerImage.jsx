@@ -37,15 +37,15 @@ const orbitImages = [
     bg: "bg-[#ffde03] backdrop-blur-sm",
   },
   {
-    src: "/icons/Tailwind.png",
-    alt: "Tailwind",
+    src: "/icons/NextJS.png",
+    alt: "NextJS",
 
     style: {
       right: "18%",
       top: "-23%",
       transform: "translateY(-50%)",
     },
-    bg: "bg-base-200/80 backdrop-blur-sm",
+    bg: "bg-white/50 backdrop-blur-sm",
   },
   {
     src: "/icons/Express.png",
@@ -57,6 +57,26 @@ const orbitImages = [
     },
     bg: "bg-base-300/80 backdrop-blur-sm",
   },
+  {
+    src: "/icons/TypeScript.png",
+    alt: "TypeScript.js",
+    style: {
+      top: "80%",
+      right: "-2%",
+      transform: "translateX(-50%) translateY(0%)",
+    },
+    bg: "bg-[#1975D0] backdrop-blur-sm",
+  },
+  // {
+  //   src: "/icons/TypeScript.png",
+  //   alt: "TypeScript.js",
+  //   style: {
+  //     bottom: "-30%",
+  //     right: "15%",
+  //     transform: "translateX(-50%) translateY(0%)",
+  //   },
+  //   bg: "bg-[#1975D0] backdrop-blur-sm",
+  // },
 ];
 
 const BannerImage = () => {
