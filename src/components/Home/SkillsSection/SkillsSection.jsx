@@ -3,8 +3,50 @@ import SectionHeading from "../../../UI/SectionHeading";
 
 const skills = [
   {
-    name: "HTML",
-    icon: "/icons/HTML5.png",
+    name: "Next JS",
+    icon: "/icons/NextJS.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "React JS",
+    icon: "/icons/React.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "TypeScript",
+    icon: "/icons/TypeScript.png",
+    logoBg: "bg-[#1975D0]",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "JavaScript",
+    icon: "/icons/JavaScript.png",
+    logoBg: "bg-[#FFDF00]",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "Node JS",
+    icon: "/icons/Node.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "express.js",
+    icon: "/icons/Express.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "MongoDB",
+    icon: "/icons/MongoDB.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "Tailwind",
+    icon: "/icons/Tailwind.png",
     logoBg: "bg-base-300",
     textBg: "bg-primary/10",
   },
@@ -15,26 +57,8 @@ const skills = [
     textBg: "bg-primary/10",
   },
   {
-    name: "JavaScript",
-    icon: "/icons/JavaScript.png",
-    logoBg: "bg-[#FFDF00]",
-    textBg: "bg-primary/10",
-  },
-  {
-    name: "React JS",
-    icon: "/icons/React.png",
-    logoBg: "bg-base-300",
-    textBg: "bg-primary/10",
-  },
-  {
-    name: "Node JS",
-    icon: "/icons/Node.png",
-    logoBg: "bg-base-300",
-    textBg: "bg-primary/10",
-  },
-  {
-    name: "MongoDB",
-    icon: "/icons/MongoDB.png",
+    name: "HTML",
+    icon: "/icons/HTML5.png",
     logoBg: "bg-base-300",
     textBg: "bg-primary/10",
   },
@@ -50,22 +74,36 @@ const skills = [
     logoBg: "bg-base-300",
     textBg: "bg-primary/10",
   },
-  {
-    name: "Tailwind",
-    icon: "/icons/Tailwind.png",
-    logoBg: "bg-base-300",
-    textBg: "bg-primary/10",
-  },
-  {
-    name: "express.js",
-    icon: "/icons/Express.png",
-    logoBg: "bg-base-300",
-    textBg: "bg-primary/10",
-  },
+  
+
   {
     name: "Postman",
     icon: "/icons/Postman.png",
     logoBg: "bg-[#f36933]",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "Git",
+    icon: "/icons/Git.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "Open Ai",
+    icon: "/icons/Openai.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "JWT",
+    icon: "/icons/JWT.png",
+    logoBg: "bg-base-300",
+    textBg: "bg-primary/10",
+  },
+  {
+    name: "C++",
+    icon: "/icons/Cpp.png",
+    logoBg: "bg-base-300",
     textBg: "bg-primary/10",
   },
 ];
