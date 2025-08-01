@@ -124,10 +124,10 @@ const Navbar = () => {
               />
 
               {/* Sun icon (light mode) */}
-              <MdLightMode className="swap-off text-secondary/50 h-7 w-7" />
+              <MdDarkMode className="swap-off text-secondary/50 h-7 w-7" />
 
               {/* Moon icon (dark mode) */}
-              <MdDarkMode className="swap-on text-secondary/50 h-7 w-7" />
+              < MdLightMode className="swap-on text-secondary/50 h-7 w-7" />
             </label>
 
             {/* Resume download */}
