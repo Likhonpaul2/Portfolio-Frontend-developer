@@ -16,7 +16,7 @@ const BannerHeaderSecond = () => {
         className="text-3xl sm:text-5xl lg:text-6xl 2xl:text-8xl font-poppins font-black mb-2 tracking-tight 2xl:-ms-1.5 2xl:-mx-6 sm:max-w-full max-w-11/12 mx-auto"
         style={{
           background:
-            "linear-gradient(120deg, #0097b2  20%, #c6eef2 50%, #0097b2 60%)",
+            "linear-gradient(120deg, #52b788  20%, #c6eef2 50%, #52b788 60%)",
           backgroundSize: "200% 100%",
           backgroundClip: "text",
           WebkitBackgroundClip: "text",

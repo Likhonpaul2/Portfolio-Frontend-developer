@@ -11,7 +11,7 @@ const Loading = () => {
           visible={true}
           height="60"
           width="60"
-          color="#33acc0"
+          color="#52b788"
           radius="9"
           ariaLabel="three-dots-loading"
           wrapperStyle={{}}

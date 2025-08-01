@@ -6,6 +6,40 @@ import { CgClose } from "react-icons/cg";
 
 const projects = [
   {
+    title: "Human Blood Foundation",
+    subtitle: "A MERN stack full-featured blood donation platform.",
+    image: "/Websites/human-blood-foundation.png",
+    live: "https://human-blood-foundation.web.app/",
+    client: "https://github.com/Likhonpaul2/human-blood-foundation",
+    description: [
+      "A MERN stack full-featured blood donation platform connecting donors, volunteers, and admins to streamline donation requests, user management, and content publishing."
+    ],
+    features: [
+      "Responsive UI for mobile, tablet, and desktop.",
+      "User authentication with Firebase + JWT.",
+      "Donor registration with profile, avatar upload, blood group & location selectors.",
+      "Role-based dashboards with dynamic content.",
+      "Donation request CRUD with status updates.",
+      "Search donors by blood group & location.",
+      "Blog management with draft/publish features.",
+      "Donation funding with Stripe integration.",
+      "Pagination & filtering in data lists.",
+      "Environment variables secure config.",
+      "Toast notifications for all user actions.",
+      "Private routes persist login state.",
+      "District & upazila data from Bangladesh Geocode.",
+      "Smooth UI animations with Framer Motion.",
+    ],
+    technologies: [
+      "React",
+      "Firebase Auth",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Framer Motion",
+    ],
+  },
+  {
     title: "Event Explorer",
     subtitle: "A Local Event Discovery Platform",
     image: "/Websites/Event-Explorer.png",

@@ -35,7 +35,7 @@ const AboutSection = () => {
             applications that perform seamlessly across devices.
           </p>
           <ul className="list-disc list-inside space-y-2 text-sm md:text-base opacity-80">
-            <li>Specialized in React, Tailwind CSS, and Firebase</li>
+            <li>Specialized in ReactJS, NextJS Tailwind CSS, and Firebase</li>
             <li>Builds responsive, scalable web applications</li>
             <li>Continuously exploring modern tech & best practices</li>
             <li>Strong attention to detail and UX-focused design</li>
