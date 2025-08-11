@@ -139,7 +139,17 @@ const ProjectSection = () => {
         subtitle="From concept to code — these are the digital products I’ve crafted."
       />
 
-      <div className="mx-auto flex justify-center lg:gap-8 gap-10 lg:flex-row flex-col pt-2">
+      <div
+        className="
+          mx-auto
+          grid
+          gap-10
+          pt-2
+          grid-cols-1
+          md:grid-cols-1
+          lg:grid-cols-2
+        "
+      >
         {projects.map((project, index) => (
           <AllProjects key={index} project={project} openModal={openModal} />
         ))}
