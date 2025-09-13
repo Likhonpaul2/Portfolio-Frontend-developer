@@ -6,6 +6,33 @@ import { CgClose } from "react-icons/cg";
 
 const projects = [
   {
+    title: "AI Job Application Tracker",
+    subtitle: "A Next.js stack full-featured AI Job Application Tracker.",
+    image: "/Websites/jobflow-liard.vercel.app_.png",
+    live: "https://jobflow-liard.vercel.app/",
+    client: "https://github.com/soyebcodes/ai-job-application-tracker",
+    description: [
+      "A 5-person team built an AI-powered job tracker. The application uses a clean UI, secure authentication,and data visualization to help users manage their job applications and track progress."
+    ],
+    features: [
+      "Users can manage job applications with status updates like Applied, Interviewing, Offer, or Rejected.",
+      "AI-powered insights and suggestions to improve job applications using the OpenAI API.",
+      "I implemented the frontend with Next.js, TailwindCSS, and shadcn/ui for a clean, responsive design.",
+      "Managed and coordinated the team to ensure tasks were completed and the project stayed on track.",
+      "A 5-person team built an AI-powered job tracker. The application uses a clean UI, secure authentication,and data visualization to help users manage their job applications and track progress.",     
+    ],
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Clerk",
+      "OpenAI API",
+      "shadcn/ui",
+      "TailwindCSS",
+      "Prisma",
+      "Supabase",
+    ],
+  },
+  {
     title: "Human Blood Foundation",
     subtitle: "A MERN stack full-featured blood donation platform.",
     image: "/Websites/human-blood-foundation.png",

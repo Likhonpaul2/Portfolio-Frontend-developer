@@ -6,6 +6,7 @@ import AboutSection from "../components/Home/AboutSection/AboutSection";
 import ContactSection from "../components/Home/ContactSection/ContactSection";
 import Footer from "../components/Home/Footer/Footer";
 import ScrollFadeIn from "../UI/ScrollFadeIn";
+import EducationSection from "../components/Home/EducationSection/EducationSection";
 
 const HomePage = () => {
   return (
@@ -27,6 +28,16 @@ const HomePage = () => {
         <ScrollFadeIn>
           <ProjectSection />
         </ScrollFadeIn>
+      </section>
+      <section
+        id="education"
+        className="bg-gradient-to-tl from-base-100 to-primary/10 md:py-16 py-10"
+      >
+        <div className="container mx-auto">
+          <ScrollFadeIn>
+            <EducationSection/>
+          </ScrollFadeIn>
+        </div>
       </section>
       <section
         id="about"
